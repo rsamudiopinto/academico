@@ -636,6 +636,11 @@ select {
   transition: all .3s ease-in-out;
 }
 
+.timeline__desc
+{
+  color:#FF0E0E;
+}
+
 .ss-custom-select {
   position: relative;
   padding: 0;
