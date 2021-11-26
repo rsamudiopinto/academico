@@ -1688,7 +1688,7 @@ input::-moz-focus-inner {
 .header-main-nav a:hover,
 .header-main-nav a:focus,
 .header-main-nav a:active {
-  color: #ffffff;
+  color: #FF0000;
 }
 
 .header-main-nav .current a {
